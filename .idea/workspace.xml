@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff031760-75b5-4076-9602-6a14ad4f7788" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/runners/CucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/runners/FailedRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/step_definitions/FlightsStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/step_definitions/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/flights.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kayakProject/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kayakProject/pages/FlightsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kayakProject/pages/FlightsPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff031760-75b5-4076-9602-6a14ad4f7788" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +92,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
